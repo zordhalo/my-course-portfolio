@@ -1,5 +1,7 @@
 # My Course Portfolio
 
+[![MCP servers live](https://whobuildsagents.com/badge/advancelabs.dev.svg)](https://whobuildsagents.com/advancelabs.dev)
+
 Welcome to my academic portfolio for CEP146 - Essential Tooling for Programmers!
 
 ## About Me
